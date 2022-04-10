@@ -1,8 +1,8 @@
 #include<stdio.h>
-int main()
+void main()
  {
   int first, second, temp;
-  printf("Enter first integerr: ");
+  printf("Enter integerr: ");
   scanf("%d", &first);
   printf("Enter second number: ");
   scanf("%d", &second);
